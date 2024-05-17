@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Sulav+Thapa!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Sulav Thapa</h1>
 <h3 align="center">A passionate IT engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulavthapa19&label=Profile%20views&color=0e75b6&style=flat" alt="sulavthapa19" /> </p>
 
 - 🌱 I’m currently learning **Google Data Analytics, IBM Data Analyst Professional, PowerBIi**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sulav thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulav thapa" height="30" width="40" /></a>
+<a href="https://fi.linkedin.com/in/sulav-thapa-484002150?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulav thapa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
