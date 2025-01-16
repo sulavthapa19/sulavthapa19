@@ -5,9 +5,9 @@
 <h3 align="center">A passionate IT engineer.</h3>
 
 
-- 🌱 I’m currently learning **Google Data Analytics, IBM Data Analyst Professional, PowerBIi**
+- 🌱 I’m currently learning ** IBM Data Analyst Professional, PowerBIi**
 
-- 👯 I’m looking to collaborate on **Data, cloud.**
+- 👯 I’m looking to collaborate on **IBM Data Engineering Professional Certificate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
